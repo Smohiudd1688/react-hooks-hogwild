@@ -89,6 +89,11 @@ ul {
   outline: #3B0B0B dotted thick;
   transition: 0.75s;
   opacity: 1;
+  width: 20%;
+}
+
+.pigTile img {
+  width: 95%;
 }
 
 .minBackgroundSneak {
@@ -138,6 +143,17 @@ ul {
 .footer {
   padding: 1%;
   clear: both;
+}
+
+#hogfilter {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#hogsort {
+  margin-top: 30px;
+  margin-bottom: 30px;
+
 }
 
 
